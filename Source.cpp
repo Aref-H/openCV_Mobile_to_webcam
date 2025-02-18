@@ -8,7 +8,7 @@ using namespace cv;
 int main() {
 
 
-	string webcamUrl = "http://192.168.1.8:8080/video";
+	string webcamUrl = "http://192.168.1.4:4747/video";
 
 	VideoCapture cap(webcamUrl, CAP_FFMPEG);
 	if (!cap.isOpened()) {
