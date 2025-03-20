@@ -19,4 +19,4 @@ e.g. : http://192.168.1.8:8080/video
 
 Four : Open the app on your phone and run the code. 
 
-Note : Watch the video to see code performance.
+Note : Watch the provided video to see the project performance
